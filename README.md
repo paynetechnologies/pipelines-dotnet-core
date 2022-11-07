@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/VGIT-Services/demos/_apis/build/status/paynetechnologies.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/VGIT-Services/demos/_build/latest?definitionId=41&branchName=master)
+
 [![Build Status](https://dev.azure.com/VGIT-Services/pipelines-dotnet-core/_apis/build/status/paynetechnologies.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/VGIT-Services/pipelines-dotnet-core/_build/latest?definitionId=35&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
