@@ -24,9 +24,9 @@ variables:
 
 jobs:
 - job: Build
-steps:
-- script: dotnet build --configuration $(buildConfiguration)
-  displayName: 'dotnet build $(buildConfiguration)'
+  steps:
+   - script: dotnet build --configuration $(buildConfiguration)
+     displayName: 'dotnet build $(buildConfiguration)'
   
 - job: Work
   steps:
